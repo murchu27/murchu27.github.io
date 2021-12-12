@@ -5,3 +5,4 @@ tags:
 ---
 
 Wow
+This is **amazing**.
