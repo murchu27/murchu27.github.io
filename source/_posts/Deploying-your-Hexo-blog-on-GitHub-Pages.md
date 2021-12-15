@@ -2,9 +2,10 @@
 title: Deploying your Hexo blog on GitHub Pages
 date: 2021-12-13 22:19:42
 tags:
-- hexo
-- github-pages
-- blogging
+- Hexo
+- Git
+- GitHub Pages
+- Blogging
 ---
 
 Good morning!
