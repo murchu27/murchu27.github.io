@@ -1,12 +1,29 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Programming Languages
+- skill: Programming languages and tools
+  description: >-
+    Proficient with the following technologies:
+    <ul class="resume-item-list">
+      <li>PHP</li><li>Python</li><li>HTML, CSS, JavaScript</li>
+      <li>MySQL</li><li>Git, GitHub, Jira</li><li>RESTful APIs</li>
+    </ul>
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Certifications
+  description: >-
+    <ul class="resume-item-list">
+      <li><a target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/91046366-74eb-49cd-822c-30caab04eeda/public_url">
+        AWS Certified Developer - Associate (AWS DVA-C01)
+      <a/></li>
+      <li><a target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/b12da1c8-faac-4c33-a965-4640251730ac/public_url">
+        Linux Foundation Certified System Administrator (LFCS)
+      <a/></li>
+    </ul>
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Soft skills
+  description: >-
+    <ul class="resume-item-list">
+      <li>Web design</li>
+      <li>Analysis and problem-solving</li>
+      <li>Coaching and teaching</li>
+      <li>Effective communication</li>
+    </ul>

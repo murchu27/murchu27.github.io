@@ -1,3 +1,14 @@
+# Resume website
+
+Repository for my resume website, hosted at [https://murchu27.com].
+
+This repository was forked (with thanks!) from [https://github.com/jglovier/resume-template](jglovier/resume-template).
+
+The original README from that project is preserved below.
+
+***
+***
+
 # Resume template
 
 *A simple Jekyll + GitHub Pages powered resume template.*

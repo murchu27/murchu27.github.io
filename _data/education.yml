@@ -1,13 +1,24 @@
-# Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+# BSc
+- degree: Bachelor of Science, Computer Science & Mathematics
+  uni: University of Galway
+  year: 2015 &mdash; 2019
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Graduated with 4.0 GPA (1st Class Honours)
+    - award: Blayney Exhibition in Science (highest mark in my graduating year)
+  # summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+# French Diploma
+- degree: Diploma in Arts, French
+  uni: University of Galway
+  year: 2015 &mdash; 2017
+  awards:
+    - award: Graduated with 4.0 GPA (1st Class Honours)
+  # summary: If you had any meaningful roles at college, feel free to write about them here
+
+# Secondary School
+- degree: Leaving Certificate
+  uni: St. Joseph's Patrician College, Galway
+  year: 2010 &mdash; 2015
+  awards:
+    - award: Achieved 615 points (out of a possible 625 points).
+  # summary: You can choose to have either a single or multiple awards
