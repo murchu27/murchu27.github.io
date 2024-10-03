@@ -14,17 +14,17 @@ resume_name:                    "Michael Murphy"
 resume_title:                   "Software Developer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "mbmurphy15@mailbox.org"
+resume_contact_email:           "murchu27@mailbox.org"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "(437) 299-2125"
 # resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
 # resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-resume_header_contact_info:     "(437) 299-2125 • mbmurphy15@mailbox.org"
+resume_header_contact_info:     "(437) 299-2125 • murchu27@mailbox.org"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am a hard-working and collaborative developer with three years of experience in web development and server administration. Committed to enhancing user-friendliness through innovative solutions. My personal passions include theatre, video games, and dogs.</p>"
+resume_header_intro: "<p>I am a hard-working and collaborative developer with experience spanning three years in web development, two years in systems administration, and one year in teaching. Committed to enhancing user-friendliness through innovative solutions. My personal passions include theatre, video games, and dogs.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
