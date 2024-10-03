@@ -3,23 +3,23 @@
 - company: MaxTech Canada
   position: IT Support Specialist
   duration: October 2023 &mdash; <em>Present</em>
-  summary: <ul class="resume-item-list"><li>Address customer issues including hardware, software, and networking.</li><li>Maintain thorough customer records for billing and documentation for diagnostics.</li><li>Manage medium- and long-term projects including site upgrades and rollouts.</li><li>Create and contribute to new IT processes as necessary, including migration of on-premises to cloud-based virtual machines, and more efficient documentation methods.</li></ul>
+  summary: <ul class="resume-item-list"><li>Address customer issues including software (Windows), hardware, and networking.</li><li>Maintain thorough customer records for billing, and documentation for diagnostics.</li><li>Conduct organization-scale updates and other changes using RMM & shell scripting.</li><li>Manage medium- and long-term projects including site upgrades and rollouts.</li><li>Create and contribute to new IT processes as necessary, including migration of on-premises nodes to cloud-based virtual machines, and more efficient documentation methods.</li></ul>
 
 # GBC
 - company: George Brown College
   position: Professor | School of Computer Technology
   duration: January 2023 &mdash; September 2023
-  summary: <ul class="resume-item-list"><li>Taught courses on Python, and web development (JavaScript and PHP), both online and in-person. Developed and graded student assessments.</li><li>Consistently received positive feedback and engagement from students.</li></ul>
+  summary: <ul class="resume-item-list"><li>Taught multiple programming courses, both online and in-person, on topics like Python, and web development (PHP, JavaScript, MySQL, React), both online and in-person. Developed and graded student assessments.</li><li>Consistently received positive feedback and engagement from students.</li></ul>
 
 # Trilogy
 - company: Trilogy
   position: Lead Software Engineer
   duration:  May 2022 &mdash; September 2022
-  summary: <ul class="resume-item-list"><li>Maintained three enterprise-grade products hosted in AWS.</li><li>Addressed technical debt with user-friendly documentation.</li><li>Guided and coached other team members.</li></ul>
+  summary: <ul class="resume-item-list"><li>Maintained three enterprise-grade products, built on several technologies: PHP, C#, SharePoint, Android, EC2, S3, DynamoDB, RDS, Jenkins, GitHub, Jira.</li><li>Addressed technical debt with user-friendly documentation.</li><li>Guided and coached other team members.</li></ul>
 
 
 # Three - Full-Stack Developer
 - company: Three Ireland
   position: Full-Stack Developer
   duration:   September 2019  &mdash; April 2022
-  summary: <ul class="resume-item-list"><li>Maintained internal web application for network engineers, hosted in AWS.</li><li>Collaborated daily with internal and external customers.</li><li>Introduced code review process, trained other devs in the process.</li><li>Nominated for <strong><em>Grad of the Year</em></strong> (2020).</li></ul>
+  summary: <ul class="resume-item-list"><li>Maintained an internal PHP-based web application for network engineers, built on LAMP stack, hosted on AWS EC2 Linux, with storage in AWS S3.</li><li>Collaborated daily with internal and external customers.</li><li>Introduced code review process using GitHub, trained other developers in the process.</li><li>Nominated for <strong><em>Grad of the Year</em></strong> (2020).</li></ul>
