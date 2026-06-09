@@ -1,14 +1,20 @@
 # Jobs
+# b(x) Theory
+- company: b(x) Theory
+  position: AI Engineer Intern
+  duration: May 2026 &mdash; <em>Present</em>
+  summary: <ul class="resume-item-list"><li>Building AI agents with Google ADK to generate financial analyses normally performed by CPAs.</li><li>Deploying agents and dependent architecture on GCP, including Cloud Run, GCS, Cloud SQL, and BigQuery.</li><li>Experimenting with and implementing document parsing and ingestion pipelines to power efficient knowledge retrieval using Ontology-Augmented Generation-based techniques.</li><li>Integrating monitoring and evaluation using MLflow to assess agent performance and deployment metrics.</li></ul>
+
 # MaxTech Canada
 - company: MaxTech Canada
   position: IT Support Specialist
-  duration: October 2023 &mdash; <em>Present</em>
+  duration: October 2023 &mdash; January 2025
   summary: <ul class="resume-item-list"><li>Address customer issues including software (Windows), hardware, and networking.</li><li>Maintain thorough customer records for billing, and documentation for diagnostics.</li><li>Conduct organization-scale updates and other changes using RMM & shell scripting.</li><li>Manage medium- and long-term projects including site upgrades and rollouts.</li><li>Create and contribute to new IT processes as necessary, including migration of on-premises nodes to cloud-based virtual machines, and more efficient documentation methods.</li></ul>
 
 # GBC
 - company: George Brown College
   position: Professor | School of Computer Technology
-  duration: January 2023 &mdash; September 2023
+  duration: January 2023 &mdash; September 2023; January 2025 &mdash; April 2025
   summary: <ul class="resume-item-list"><li>Taught multiple programming courses, both online and in-person, on topics like Python, and web development (PHP, JavaScript, MySQL, React), both online and in-person. Developed and graded student assessments.</li><li>Consistently received positive feedback and engagement from students.</li></ul>
 
 # Trilogy

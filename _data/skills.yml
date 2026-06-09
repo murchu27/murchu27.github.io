@@ -1,18 +1,27 @@
 # Skills
 # Programming Languages
-- skill: Programming languages and tools
+- skill: Programming languages and AI/ML tools
   description: >-
     Proficient with the following technologies:
     <ul class="resume-item-list">
-      <li>PHP</li><li>Python</li><li>HTML, CSS, JavaScript</li>
-      <li>MySQL</li><li>Git, GitHub, Jira</li><li>RESTful APIs</li>
+      <li>Python (PyTorch, Gymnasium, Unsloth, YOLO)</li><li>PHP</li><li>MySQL</li>
+      <li>HTML, CSS, JavaScript</li><li>C#</li><li>Bash</li><li>Java</li>
+      <li>Hugging Face</li><li>Weights &amp; Biases</li><li>Roboflow</li><li>Google ADK</li>
+      <li>Git, GitHub, Jira</li><li>RESTful APIs</li>
+    </ul>
+
+- skill: Cloud platforms
+  description: >-
+    <ul class="resume-item-list">
+      <li>AWS: EC2, RDS, S3, DynamoDB, Lambda, CloudWatch, CloudFormation, IAM</li>
+      <li>GCP: Cloud SQL, GCS, BigQuery, Cloud Run, Gemini Enterprise Agent Platform (Vertex AI), IAM</li>
     </ul>
 
 - skill: Certifications
   description: >-
     <ul class="resume-item-list">
       <li><a target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/91046366-74eb-49cd-822c-30caab04eeda/public_url">
-        AWS Certified Developer - Associate (AWS DVA-C01)
+        AWS Certified Developer - Associate (AWS DVA-C02)
       </a></li>
       <li><a target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/b12da1c8-faac-4c33-a965-4640251730ac/public_url">
         Linux Foundation Certified System Administrator (LFCS)

@@ -1,5 +1,5 @@
 # Site settings
-title: "Michael Murphy, Software Developer"
+title: "Michael Murphy, AI & Software Engineer"
 # description: ""
 
 # Build settings
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Michael Murphy"
-resume_title:                   "Software Developer"
+resume_title:                   "AI & Software Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "murchu27@mailbox.org"
@@ -24,7 +24,7 @@ resume_contact_telephone:       "(437) 299-2125"
 resume_header_contact_info:     "(437) 299-2125 • murchu27@mailbox.org"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am a hard-working and collaborative developer with experience spanning three years in web development, two years in systems administration, and one year in teaching. Committed to enhancing user-friendliness through innovative solutions. My personal passions include theatre, video games, and dogs.</p>"
+resume_header_intro: "<p>AI and software engineer, currently pursuing an MSc in Computer Science with a specialization in Artificial Intelligence. Interning as an AI Engineer at b(x) Theory.</p><p>Completed several technical research projects centred on topics like LLMs, including fine-tuning and evaluation, reinforcement learning, computer vision, and AI debiasing. Worked with tools like PyTorch, Hugging Face, Unsloth, Gymnasium, and YOLO.</p><p>Previously worked in a diverse array of technical roles: Software Engineer, Full-stack Developer, IT Support Specialist, and Professor. Seeking opportunities in AI/ML where I can grow my skills and make meaningful contributions.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -36,7 +36,7 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-# resume_section_projects:        true
+resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     true
 # resume_section_links:           true
