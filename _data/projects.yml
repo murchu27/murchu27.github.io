@@ -1,16 +1,21 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
+- project: GroundedDoc
+  role: Creator & Developer
+  duration: 2026
+  url: "https://github.com/murchu27/GroundedDoc"
+  description: GroundedDoc answers questions over document collections with checkable citations, conflict awareness, and honest refusal when evidence is missing. The project includes a privacy-policy analysis use case, FastAPI service, browser extension, MLflow evaluation, and Cloud Run/GCP deployment path.
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: LLMs for Optimization
+  role: MSc Project
+  duration: York University
+  description: Technical research project exploring LLMs for optimization.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Agentic Exam Study Planner
+  role: MSc Project
+  duration: York University
+  description: Agentic AI project focused on planning exam study workflows.
+
+- project: Reinforcement Learning for Puzzle Games
+  role: MSc Project
+  duration: York University
+  description: Reinforcement learning project focused on puzzle-game environments.
