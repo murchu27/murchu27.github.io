@@ -3,7 +3,7 @@
 - company: b(x) Theory
   position: AI Engineer Intern
   duration: May 2026 &mdash; <em>Present</em>
-  summary: <ul class="resume-item-list"><li>Building AI agents with Google ADK to generate financial analyses normally performed by CPAs.</li><li>Deploying agents and dependent architecture on GCP, including Cloud Run, GCS, Cloud SQL, and BigQuery.</li><li>Experimenting with and implementing document parsing and ingestion pipelines to power efficient knowledge retrieval using Ontology-Augmented Generation-based techniques.</li><li>Integrating monitoring and evaluation using MLflow to assess agent performance and deployment metrics.</li></ul>
+  summary: <ul class="resume-item-list"><li>Building AI agents with Google ADK to generate financial analyses normally performed by CPAs.</li><li>Deploying agents and dependent architecture on GCP, including Cloud Run, GCS, Cloud SQL, and BigQuery.</li><li>Implementing document parsing and ingestion pipelines to power efficient knowledge retrieval using Ontology-Augmented Generation-based techniques.</li><li>Integrating monitoring and evaluation using MLflow to assess agent performance and deployment metrics.</li></ul>
 
 # MaxTech Canada
 - company: MaxTech Canada
