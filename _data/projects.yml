@@ -1,6 +1,12 @@
 # Projects
+- project: TCGPDeckGenie
+  role: Portfolio Project
+  duration: 2026
+  url: "https://github.com/murchu27/TCGPDeckGenie"
+  description: TCGPDeckGenie designs Pokémon TCG Pocket decks from natural-language briefs, weighing card synergy against standalone utility and validating format rules locally. The project includes TCGdex-backed local caching, a cost-aware two-stage Gemini pipeline, solo-battle counter decks, Pydantic structured output, and a Click CLI.
+
 - project: GroundedDoc
-  role: Creator & Developer
+  role: Portfolio Project
   duration: 2026
   url: "https://github.com/murchu27/GroundedDoc"
   description: GroundedDoc answers questions over document collections with checkable citations, conflict awareness, and honest refusal when evidence is missing. The project includes a privacy-policy analysis use case, FastAPI service, browser extension, MLflow evaluation, and Cloud Run/GCP deployment path.
