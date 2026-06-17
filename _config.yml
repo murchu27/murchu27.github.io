@@ -24,7 +24,7 @@ resume_contact_telephone:       "(437) 299-2125"
 resume_header_contact_info:     "(437) 299-2125 • murchu27@mailbox.org"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>AI and software engineer, currently pursuing an MSc in Computer Science with a specialization in Artificial Intelligence. Interning as an AI Engineer at b(x) Theory.</p><p>Completed several technical research projects centred on topics like LLMs, including fine-tuning and evaluation, reinforcement learning, computer vision, and AI debiasing.</p><p>Main skills and tools: Python, Google ADK, GCP, AWS, LLM APIs, PyTorch, PHP, MySQL.</</p><p>Previously worked in a diverse array of technical roles: Software Engineer, Full-stack Developer, IT Support Specialist, and Professor. Seeking opportunities in AI/ML where I can grow my skills and make meaningful contributions.</p>"
+resume_header_intro: "<p>AI and software engineer, currently pursuing an MSc in Computer Science with a specialization in Artificial Intelligence. Interning as an AI Engineer at b(x) Theory.</p><p>Completed several technical research projects centred on topics like LLMs, including fine-tuning and evaluation, reinforcement learning, computer vision, and AI debiasing.</p><p>Main skills and tools: Python, Google ADK, GCP, AWS, LLM APIs, PyTorch, PHP.</</p><p>Previously worked in a diverse array of technical roles: Software Engineer, Full-stack Developer, IT Support Specialist, and Professor. Seeking opportunities in AI/ML where I can grow my skills and make meaningful contributions.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
