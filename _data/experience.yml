@@ -3,29 +3,75 @@
 - company: b(x) Theory
   position: AI Engineer Intern
   duration: May 2026 &mdash; <em>Present</em>
-  summary: <ul class="resume-item-list"><li>Building AI agents with Google ADK to generate financial analyses normally performed by CPAs.</li><li>Deploying agents and dependent architecture on GCP, including Cloud Run, GCS, Cloud SQL, and BigQuery.</li><li>Implementing document parsing and ingestion pipelines to power efficient knowledge retrieval using Ontology-Augmented Generation-based techniques.</li><li>Integrating monitoring and evaluation using MLflow to assess agent performance and deployment metrics.</li></ul>
-
-# MaxTech Canada
-- company: MaxTech Canada
-  position: IT Support Specialist
-  duration: October 2023 &mdash; January 2025
-  summary: <ul class="resume-item-list"><li>Address customer issues including software (Windows), hardware, and networking.</li><li>Maintain thorough customer records for billing, and documentation for diagnostics.</li><li>Conduct organization-scale updates and other changes using RMM & shell scripting.</li><li>Manage medium- and long-term projects including site upgrades and rollouts.</li><li>Create and contribute to new IT processes as necessary, including migration of on-premises nodes to cloud-based virtual machines, and more efficient documentation methods.</li></ul>
+  summary: >-
+    <ul class="resume-item-list">
+    <li>Building AI agents with Google ADK to generate the kind of financial analyses normally performed by CPAs.</li>
+    <li>Systemized and improved RAG retrieval & extraction pipelines, cutting extraction time by 50% on average.</li>
+    <li>Deploying agents and architecture on GCP (Cloud Run, GCS, AlloyDB, and more), maintained with Terraform.</li>
+    <li>Implementing document chunking & data extraction pipelines, with domain ontology captured as LinkML.</li>
+    <li>Integrating evaluation and monitoring using MLflow to assess agent performance and deployment metrics.</li>
+    <li>Collaborating cross-functionally with finance-domain executives to ensure the product meets their needs.</li>
+    </ul>
 
 # GBC
 - company: George Brown College
   position: Professor | School of Computer Technology
-  duration: January 2023 &mdash; September 2023; January 2025 &mdash; April 2025
-  summary: <ul class="resume-item-list"><li>Taught multiple programming courses, both online and in-person, on topics like Python, and web development (PHP, JavaScript, MySQL, React), both online and in-person. Developed and graded student assessments.</li><li>Consistently received positive feedback and engagement from students.</li></ul>
+  duration: January 2023 &mdash; September 2023, January 2025 &mdash; April 2025
+  summary: >-
+    <ul class="resume-item-list">
+    <li>Taught multiple college courses on Python, webdev (PHP, JavaScript), databases (MySQL), and design.</li>
+    <li>Handled both online and in-person formats. Graded assignments and exams within regular deadlines.</li>
+    <li>Consistently received positive feedback and engagement from students.</li>
+    </ul>
+
+# MaxTech Canada
+- company: MaxTech Canada
+  position: Support Engineer
+  duration: October 2023 &mdash; January 2025
+  summary: >-
+    <ul class="resume-item-list">
+    <li>Provided live support to small business customers, resolved technical issues (software, hardware, network).</li>
+    <li>Managed medium- and long-term projects like site upgrades and rollouts, often involving physical deployments.</li>
+    <li>Conducted organization-scale updates and other changes with NinjaOne RMM & scripting.</li>
+    <li>Migrated outdated on-premises nodes to cloud-based virtual machines hosted on V2 Cloud.</li>
+    <li>Maintained thorough documentation in OneNote, and managed customer records for billing using BlueFolder.</li>
+    </ul>
 
 # Trilogy
 - company: Trilogy
-  position: Lead Software Engineer
+  position: Software Engineer
   duration:  May 2022 &mdash; September 2022
-  summary: <ul class="resume-item-list"><li>Maintained three enterprise-grade products, built on several technologies&#58; PHP, C#, SharePoint, Android, EC2, S3, DynamoDB, RDS, Jenkins, GitHub, Jira.</li><li>Addressed technical debt with user-friendly documentation.</li><li>Guided and coached other team members.</li></ul>
+  summary: >-
+    <ul class="resume-item-list">
+    <li>Maintained three enterprise-grade products, built on: PHP, C#, EC2, S3, RDS, DynamoDB, Jenkins, GitHub.</li>
+    <li>Addressed technical debt by creating user-friendly documentation.</li>
+    <li>Guided and coached other team members during sprints.</li>
+    </ul>
 
 
-# Three - Full-Stack Developer
+# Three
 - company: Three Ireland
   position: Full-Stack Developer
   duration:   September 2019  &mdash; April 2022
-  summary: <ul class="resume-item-list"><li>Maintained an internal PHP-based web application for network engineers, built on LAMP stack, hosted on AWS EC2 Linux, with storage in AWS S3.</li><li>Collaborated daily with internal and external customers.</li><li>Introduced code review process using GitHub, trained other developers in the process.</li><li>Nominated for <strong><em>Grad of the Year</em></strong> (2020).</li></ul>
+  summary: >-
+    <ul class="resume-item-list">
+    <li>Maintained an internal PHP- and JavaScript-based web application for network engineers, built on a LAMP stack, hosted on EC2 Linux instances, with storage in S3, and a MySQL database.</li>
+    <li>Introduced code review & sprints using GitHub, reducing rollbacks from twice monthly to twice annually.</li>
+    <li>Led an automated config rollout, enabling a 6-month manual process to reach 80% completion in 2 weeks.</li>
+    <li>Created several automated routines with Bash, Python, VBScript, reducing time spent on repetitive tasks.</li>
+    <li>Collaborated directly with internal & external customers, including network engineers & business leadership.</li>
+    <li>Received <strong>Hero awards</strong> (2020, 2021) for display of company values. Nominated for <strong>Grad of the Year</strong> (2020).</li>
+    <li>Sat on Diversity, Inclusion and Belonging (DIB) steering committee. Organized an International Mens' Day event.</li>
+    <li>Technical lead on a company-wide charity project, requiring survey management and data analysis.</li>
+    </ul>
+
+# Boston Scientific
+- company: Boston Scientific
+  position: Software Engineer Co-op
+  duration:  May 2017 &mdash; Aug 2017
+  summary: >-
+    <ul class="resume-item-list">
+    <li>Developed an internal meeting-room locator application for a 3000-person manufacturing plant.</li>
+    <li>Worked under minimal supervision, managed my own issues and deadlines.</li>
+    <li>Taught myself the tech stack: C#, ASP.NET, JavaScript, SQL.</li>
+    </ul>
