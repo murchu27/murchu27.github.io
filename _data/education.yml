@@ -3,17 +3,22 @@
   uni: York University
   year: Expected October 2026
   awards:
-    - award: Cumulative 3.8 GPA
-    - award: "Courses &amp; grades: Data Mining (A), Fairness &amp; Bias in AI (A+), Machine Learning Theory (A+), Robotics (A), Probabilistic Methods &amp; Machine Learning (B+), Capstone Project Management (A)"
-    - award: "Projects: LLMs for Optimization, Agentic Exam Study Planner, Reinforcement Learning for Puzzle Games"
+    - award: Graduating with 3.8 GPA.
+    - award: >-
+        Courses &amp; grades: Data Mining (A), Fairness &amp; Bias in AI (A+), Machine Learning Theory (A+), Robotics (A), Probabilistic Methods &amp; Machine Learning (B+), Capstone Project Management (A).
+    - award: >-
+        Projects: Agentic AI Exam Study Planner, LLMs for Optimization, Reinforcement Learning for Puzzle Games.
 
 # BSc
 - degree: Bachelor of Science, Computer Science & Mathematics
   uni: University of Galway
   year: 2015 &mdash; 2019
   awards:
-    - award: Graduated with 4.0 GPA (1st Class Honours)
-    - award: Blayney Exhibition in Science (highest mark in my graduating year)
+    - award: Graduated with 4.0 GPA (1st Class Honours).
+    - award: Received the Blayney Exhibition in Science for achieving the highest marks in my graduating year.
+    - award: Created a game in Unity for my final year project, which won Best in Original Story at the Irish Games Fleadh (2019).
+    - award: Held multiple positions in Drama and Musical Theatre club committees, including Events Officer and Treasurer.
+    - award: Events Officer for a national student drama festival. Organised ten days of events, including fundraisers and an awards ceremony. Resulted in a nomination for Best Fresher.
   # summary: If you had any meaningful roles at college, feel free to write about them here
 
 # French Diploma
