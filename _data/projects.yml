@@ -3,23 +3,34 @@
   role: Portfolio Project
   duration: 2026
   url: "https://github.com/murchu27/TCGPDeckGenie"
-  description: TCGPDeckGenie designs Pokémon TCG Pocket decks from natural-language briefs, weighing card synergy against standalone utility and validating format rules locally. The project includes TCGdex-backed local caching, a cost-aware two-stage Gemini pipeline, solo-battle counter decks, Pydantic structured output, and a Click CLI.
+  description: >-
+    <ul class="resume-item-list">
+    <li>CLI-based app that designs Pokémon TCG Pocket decks from natural-language briefs using Gemini (free tier).</li>
+    <li>Uses TCGdex SDK for knowledge of cards and solo-battle missions, for which it can build counter decks.</li>
+    <li>Responses grounded by Pydantic structured output. CLI powered by Click CLI.</li>
+    </ul>
 
 - project: GroundedDoc
   role: Portfolio Project
   duration: 2026
   url: "https://github.com/murchu27/GroundedDoc"
-  description: GroundedDoc answers questions over document collections with checkable citations, conflict awareness, and honest refusal when evidence is missing. The project includes a privacy-policy analysis use case, FastAPI service, browser extension, MLflow evaluation, and Cloud Run/GCP deployment path.
+  description: >-
+    <ul class="resume-item-list">
+    <li>CLI-based app that answers questions over document collections with checkable citations & conflict awareness.</li>
+    <li>Aimed at analysing privacy policies against regulatory corpora (e.g., PIPEDA, GDPR).</li>
+    <li>Deploys on GCP Cloud Run, served via FastAPI, with a browser extension front-end for sending requests.</li>
+    </ul>
+
+# TODO: Expand on the below projects
+- project: Agentic AI Exam Study Planner
+  role: MSc Project
+  duration: York University
+  description: Agentic AI project focused on planning exam study workflows.
 
 - project: LLMs for Optimization
   role: MSc Project
   duration: York University
   description: Technical research project exploring LLMs for optimization.
-
-- project: Agentic Exam Study Planner
-  role: MSc Project
-  duration: York University
-  description: Agentic AI project focused on planning exam study workflows.
 
 - project: Reinforcement Learning for Puzzle Games
   role: MSc Project
